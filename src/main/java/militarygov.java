@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class militarygov {
+public class militarygov extends Aircraft {
 
     public static void main(String[] args) {
         int unit;
